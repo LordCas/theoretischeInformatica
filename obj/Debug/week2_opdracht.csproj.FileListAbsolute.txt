@@ -1,0 +1,6 @@
+E:\school\herkansingen jaar 4\theoritische informatica\week2_opdracht\week2_opdracht\bin\Debug\week2_opdracht.exe.config
+E:\school\herkansingen jaar 4\theoritische informatica\week2_opdracht\week2_opdracht\obj\Debug\week2_opdracht.csprojResolveAssemblyReference.cache
+E:\school\herkansingen jaar 4\theoritische informatica\week2_opdracht\week2_opdracht\bin\Debug\week2_opdracht.exe
+E:\school\herkansingen jaar 4\theoritische informatica\week2_opdracht\week2_opdracht\bin\Debug\week2_opdracht.pdb
+E:\school\herkansingen jaar 4\theoritische informatica\week2_opdracht\week2_opdracht\obj\Debug\week2_opdracht.exe
+E:\school\herkansingen jaar 4\theoritische informatica\week2_opdracht\week2_opdracht\obj\Debug\week2_opdracht.pdb
